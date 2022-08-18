@@ -1,0 +1,7 @@
+1-Registre 2 cuentas y cree post en cada 1 de ellas
+2- al crear posts estos aparecern en el muro de cada cuenta que haya creado
+3- si ud sigue a otra cuenta, en la pagina principal le apareceran los posts de las cuentas que sigue
+
+la "funcionalidad" es igual a la de instagram, dar like, seguir, comentar la publicacion (post)
+
+dejare algunas imagenes del proyecto en la carpeta de IMAGENES DEL PROYECTO
